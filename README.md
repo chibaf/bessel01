@@ -29,4 +29,4 @@ mpfr_t euler, mpfr_t pi, mp_rnd_t rmode)
 
 Ooura's Mathematical Software Packages https://www.kurims.kyoto-u.ac.jp/~ooura/index.html
 
-MPFR https://www.kurims.kyoto-u.ac.jp/~ooura/index.html
+MPFR https://www.mpfr.org
