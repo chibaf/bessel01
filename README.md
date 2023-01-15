@@ -2,6 +2,9 @@
 
 bessel function program with mpfr
 
+static void bessel01(int fl, mpfr_t x, int l, mpfr_t eps, mpfr_t s, mpfr_t t, mpfr_t u, mpfr_t v, 
+mpfr_t euler, mpfr_t pi, mp_rnd_t rmode)
+
 //  comp zeroth and 1st order bessel function
 
 //  original program is witten by Ooura.
