@@ -25,7 +25,7 @@ mpfr_t euler, mpfr_t pi, mp_rnd_t rmode)
 
 
 
-#ref 
+# ref 
 
 Ooura's Mathematical Software Packages https://www.kurims.kyoto-u.ac.jp/~ooura/index.html
 
